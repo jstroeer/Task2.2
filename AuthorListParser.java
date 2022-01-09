@@ -1,4 +1,4 @@
-//New comment
+//New comment new
 public class AuthorListParser {
 
     // Avoid partition where these values are contained
